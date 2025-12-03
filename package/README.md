@@ -1,6 +1,6 @@
-# GPU Energy Meter
+# CLEAR
 
-A Python package for measuring GPU energy consumption using NVIDIA Management Library (NVML). Designed for researchers and developers who need to measure the energy efficiency of GPU operations, particularly useful for machine learning workloads.
+A Python package for measuring GPU energy consumption using NVIDIA Management Library (NVML). Designed for researchers and developers who need to measure the energy efficiency of GPU operations, particularly useful for machine learning workload due to the time sensitivity of the operations which GPU power sensors can't directly measure
 
 ## Features
 
