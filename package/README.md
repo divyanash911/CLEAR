@@ -264,23 +264,8 @@ If measurements seem off:
 - Ensure GPU is not being used by other processes
 - Use `torch.cuda.synchronize()` after operations
 
-## License
 
-MIT License
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-<!-- ## Citation
-
-If you use this package in your research, please cite:
-
-```bibtex
-@software{gpu_energy_meter,
-  title = {GPU Energy Meter: A Python Package for GPU Energy Measurement},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/gpu_energy_meter}
-}
-``` -->
