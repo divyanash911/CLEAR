@@ -272,7 +272,7 @@ MIT License
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Citation
+<!-- ## Citation
 
 If you use this package in your research, please cite:
 
@@ -283,4 +283,4 @@ If you use this package in your research, please cite:
   year = {2024},
   url = {https://github.com/yourusername/gpu_energy_meter}
 }
-```
+``` -->
